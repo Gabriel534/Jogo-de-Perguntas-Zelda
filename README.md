@@ -10,6 +10,6 @@ Envolve um jogo de perguntas envolvendo Zelda feito no powerpoint usando VBA
 
 ## Imagens de Funcionamento
 ![Animação](https://github.com/Gabriel534/Jogo-de-Perguntas-Zelda/assets/55637901/5da878e2-8112-4e90-bca6-e416c742d6fa)
-![Animação](https://github.com/Gabriel534/Jogo-de-Perguntas-Zelda/assets/55637901/e5d2d481-1341-4fa7-9911-e4f34e323372)
+![Animação](https://github.com/Gabriel534/Jogo-de-Perguntas-Zelda/assets/55637901/9f0595d7-424e-4c7d-8609-0c2521a3c00b)
 ![image](https://github.com/Gabriel534/Jogo-de-Perguntas-Zelda/assets/55637901/2732007c-3aa0-4f40-beb5-a75827c9691b)
 ![image](https://github.com/Gabriel534/Jogo-de-Perguntas-Zelda/assets/55637901/51df76ef-2dc1-43ce-834c-337bd6cb4676)
